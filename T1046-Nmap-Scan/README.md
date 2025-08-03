@@ -75,6 +75,4 @@ Documented detection pipeline similar to real SOCs
 I’m actively building a hands-on SOC Analyst portfolio.
 If you're hiring, mentoring, or want to collaborate — connect on LinkedIn.
 
-yaml
-Copy
-Edit
+
